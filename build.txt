@@ -1,0 +1,3 @@
+displayName = Girls' Frontline Guns
+author = N4verz
+version = 0.1
